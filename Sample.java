@@ -4,6 +4,6 @@ public class Sample
 	public static void main()
 	{
 		System.out.println("Hello World!!!");
-		System.out.println("I am Java program :(");
+		System.out.println("I am a simple Java program hehe :(");
 	}
 }
