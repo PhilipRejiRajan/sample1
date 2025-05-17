@@ -7,3 +7,4 @@ public class Sample
 		System.out.println("I am a simple Java program hehe :(");
 	}
 }
+//lol lmao
