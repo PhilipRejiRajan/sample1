@@ -1,14 +1,14 @@
 const body = document.getElementById("body");
-const div = document.getElementById("sample");
+const image = document.getElementById("sampleimage");
 
 body.addEventListener("click", () => {
     const newColor = randomColor();
     document.body.style.backgroundColor = newColor;
 });
 
-div.addEventListener("click", () => {
+image.addEventListener("click", () => {
     const newColor = randomColor();
-    div.style.backgroundColor = newColor;
+    document.body.style.backgroundColor = newColor;
 });
 
 let newColor;
