@@ -4,3 +4,20 @@ body{
     color: darkorange;
     text-align: center;
 }
+
+#sample{
+    margin: 20px auto;
+    max-width: 1000px;
+    background-color: blueviolet;
+    padding: 50px;
+    border-radius: 70px;
+    box-shadow: 10px 10px 5px rgba(138, 43, 226, 0.5);
+}
+
+#sampleimage{
+    border-radius: 40px;
+    box-shadow: 5px 5px 5px rgba(14, 29, 92, 0.5);
+}
+#h2{
+    padding-bottom: 20px;
+}
