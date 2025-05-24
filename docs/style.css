@@ -23,6 +23,9 @@ body{
 #sampleimage{
     border-radius: 40px;
     box-shadow: 5px 5px 5px rgba(14, 29, 92, 0.5);
+}
+
+img{    
     max-width: 100%;
     height: auto;
 }
