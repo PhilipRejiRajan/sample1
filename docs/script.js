@@ -1,7 +1,7 @@
 
-const image = document.getElementById("sampleimage");
+const body = document.getElementById("body");
 
-image.addEventListener("click", () => {
+body.addEventListener("click", () => {
     const newColor = randomColor();
     document.body.style.backgroundColor = newColor;
 });
