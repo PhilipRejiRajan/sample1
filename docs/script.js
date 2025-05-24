@@ -3,7 +3,7 @@ const image = document.getElementById("sampleimage");
 
 image.addEventListener("click", () => {
     const newColor = randomColor();
-    document.backgroundColor = newColor;
+    document.body.style.backgroundColor = newColor;
 });
 
 let newColor;
